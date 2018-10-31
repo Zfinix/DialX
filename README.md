@@ -1,4 +1,6 @@
 # DialX
 USSD Code Dialer 
-![Screenshot 1](https://raw.githubusercontent.com/Zfinix/DialX/master/screenshots/1.png)
-![Screenshot 2](https://raw.githubusercontent.com/Zfinix/DialX/master/screenshots/2.png)
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Zfinix/DialX/master/screenshots/1.png" width="350" title="hover text">
+  <img src="https://raw.githubusercontent.com/Zfinix/DialX/master/screenshots/1.png" width="350" alt="accessibility text">
+</p>
